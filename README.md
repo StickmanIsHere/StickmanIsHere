@@ -1,4 +1,4 @@
-hi im stick
+hi i am stick
 <br>
 im a gamer
 

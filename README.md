@@ -1,6 +1,4 @@
-hi i am stick
-<br>
-im a gamer
+Yo! Welcome to my GitHub profile. This is where i do some open source stuff
 
 <!---
 StickmanOnGitHub/StickmanOnGitHub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

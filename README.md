@@ -1,4 +1,4 @@
-Yo! Welcome to my GitHub profile, This is where i do some open source stuff.
+Yo! Welcome to my GitHub profile, This is where I do some open source stuff.
 <br>
 <br>
 Have a nice time!

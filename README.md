@@ -4,7 +4,7 @@ hello there gamerz. i am stickman, you can refer to me as stick if you want
 anyway do whatever is worth your time
 <br>
 <br>
-alias: stickman (mainly), monopoly_gaming
+aliases: stickman (mainly), monopoly_gaming
 
 <!---
 StickmanOnGitHub/StickmanOnGitHub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

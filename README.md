@@ -7,6 +7,6 @@ anyway do whatever is worth your time
 aliases: stickman (mainly), monopoly_gaming
 
 <!---
-StickmanOnGitHub/StickmanOnGitHub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+StickmanIsHere/StickmanIsHere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
